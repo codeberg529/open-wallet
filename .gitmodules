@@ -1,0 +1,3 @@
+[submodule "src/Cosmos/hook"]
+	path = src/Cosmos/hook
+	url = git@github.com:codeberg529/hook.git
